@@ -1,4 +1,7 @@
 # Taller_1
+/*Rodriguez-Alexander_Bañares-Matias
+
+ */
 import java.time.Duration;
 import java.time.Instant;
 import java.util.ArrayList;
