@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Rodriguez-Alexander_Bañares_Matias
+ * @author Rodriguez-Alexander_Bañares-Matias
  */
 public class CSVreader {
 
